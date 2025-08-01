@@ -1,5 +1,4 @@
-### Heart Failure Prediction App
+## Heart Failure Prediction App
 
---
-## The full project is on under construction
---
+
+### **The full project is on under construction**
